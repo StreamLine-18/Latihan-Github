@@ -1,17 +1,16 @@
+# register_smartlocker
 
-# FiPEx 2023 
+A new Flutter project.
 
+## Getting Started
 
-Final Project Exhibition (FiPEx) merupakan kegiatan tahunan dari program studi Sistem Informasi Universitas Ahmad Dahlan, dimana mahasiswa menampilkan karya yang telah dibuat pada masing-masing mata kuliah di semester ganjil TA 2022/2023.
+This project is a starting point for a Flutter application.
 
-Kategori ini menampilkan outcome dari
-mata kuliah Teknologi Web dimana hasil karya mahasiswa berupa website yang bersifat
-responsive, atau dapat ditampilkan dalam beragam screen size dengan rapi, seperti pada
-mobile, desktop, tablet, dll. Peserta diperbolehkan untuk melakukan pengembangan website
-menggunakan berbagai macam framework, seperti Bootstrap, Tailwind CSS, dll.
-## Authors
+A few resources to get you started if this is your first Flutter project:
 
-- [Gemilang Tirto Ismoyo Santoso](https://www.github.com/Woolf14)
-- [Rafi Ariq Witaqi](https://github.com/K0opel)
-- Ema Septian Hakim
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
